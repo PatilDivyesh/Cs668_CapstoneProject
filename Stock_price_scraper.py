@@ -2,7 +2,7 @@ import requests
 import csv
 from datetime import datetime, timedelta
 
-# Define your API access key
+# Define API access key
 api_access_key = ''  
 
 # Defining  list of stock symbols 
